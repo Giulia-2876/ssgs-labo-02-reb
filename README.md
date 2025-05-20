@@ -3,7 +3,7 @@
 Questo progetto fornisce una base per una semplice Command-Line Interface (CLI) Node.js che offre diverse utilità per la manipolazione di stringhe.
 
 
-## Funzionalità Principali (Previste)
+## Funzionalità Principali
 
 * Inversione di una stringa.
 * Verifica se una stringa è palindroma.
@@ -12,4 +12,5 @@ Questo progetto fornisce una base per una semplice Command-Line Interface (CLI) 
 
 ## Installazione e Avvio
 
-*(Questa sezione dovrà essere completata dallo studente come parte dell'Esercizio 1, includendo i comandi per installare le dipendenze ed eseguire l'applicazione e i test).*
+Installazione di jest:
+npm install --save-dev jest
