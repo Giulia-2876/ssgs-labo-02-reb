@@ -14,3 +14,7 @@ Questo progetto fornisce una base per una semplice Command-Line Interface (CLI) 
 
 Installazione di jest:
 npm install --save-dev jest
+
+## Note
+
+Ho svolto solo parzialmente l'esercizio 1 e 2.
