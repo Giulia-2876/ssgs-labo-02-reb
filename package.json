@@ -1,12 +1,20 @@
 {
   "name": "labo-string",
   "version": "1.0.0",
-  "description": "",
+  "description": "Command-Line Interface (CLI) Node.js per la manipolazione di stringhe",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "C.S , G.R.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giulia-2876/ssgs-labo-02-reb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Giulia-2876/ssgs-labo-02-reb/issues"
+  },
+  "homepage": "https://github.com/Giulia-2876/ssgs-labo-02-reb#readme"
 }
