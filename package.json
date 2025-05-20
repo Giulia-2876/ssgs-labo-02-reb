@@ -4,7 +4,11 @@
   "description": "Command-Line Interface (CLI) Node.js per la manipolazione di stringhe",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage --coverageReporters=lcov --coverageDirectory=coverage",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   },
   "keywords": [],
   "author": "C.S , G.R.",
@@ -18,3 +22,4 @@
   },
   "homepage": "https://github.com/Giulia-2876/ssgs-labo-02-reb#readme"
 }
+  
